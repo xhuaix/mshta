@@ -1,0 +1,2 @@
+# mshta
+just for test
